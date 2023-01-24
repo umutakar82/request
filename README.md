@@ -6,7 +6,7 @@ Python İle Yazımış Olduğum Program Hakkında
 
 ## Görüntüler
 
-- dstat.cc adresinde programızı test etiğimizde 1 req gelmekte
+- dstat.cc adresinde 1 req gelmekte
 
 ![alt text](https://cdn.discordapp.com/attachments/1066743327426347158/1067423780818931842/Ekran_goruntusu_20230124_154018.png)
 
