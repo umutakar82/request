@@ -25,6 +25,10 @@ Adresimizi Yazalım
 
 ![alt text](https://cdn.discordapp.com/attachments/1066743327426347158/1067425785113235517/image.png)
 
+- İstek Başarılı Bir Şekilde Gitikten Sonra Ekranda Bu Şekikilde Bir Yazı Çıkacak
+
+![alt text](https://cdn.discordapp.com/attachments/1066743327426347158/1067426188890492948/image.png)
+
 ## Kurulum
 
 setup.bat dosyasını açınız
